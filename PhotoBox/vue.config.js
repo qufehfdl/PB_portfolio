@@ -1,7 +1,7 @@
 const { defineConfig } = require("@vue/cli-service");
 module.exports = {
   outputDir:
-    "C:/Users/hth19/git/PhotoBox_Back/src/main/resources/static", // 빌드 타겟 디렉토리
+    "C:/Users/hth19/IdeaProjects/PhotoBox_Back/src/main/resources/static", // 빌드 타겟 디렉토리
   devServer: {
     proxy: {
       "/root": {
