@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row">
             <div class="col-12 mb-4" id="login">
-                <p style="color: white;">회원가입</p>
+                <p style="color: white;">회원 가입</p>
             </div>
             <div class="col-md-12 mb-4">
                 <label for="name" class="form-label">Name</label>
